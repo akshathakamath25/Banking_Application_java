@@ -47,13 +47,7 @@ balance=balance-amount;
 }
 else{
     System.out.println("Transaction not possible!!!");
-}}
-public void cheque(){
-  
-}}
-    
-
- 
+}}}
 public class BankingApplication {
 
     public static void main(String[] args) {
